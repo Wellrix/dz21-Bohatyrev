@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fstream/fstream.vcxproj" Id="87285af1-dc6b-4704-ba4d-07f98961823a" />
+  <Project Path="string/string.vcxproj" Id="ca62e45c-6799-4c79-b930-8a04dbd961da" />
+</Solution>
